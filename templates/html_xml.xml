@@ -17,4 +17,13 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="div" value="&lt;div class=&quot;$END$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/div&gt;" description="Surround with &lt;div class=&quot;&quot;&gt;&lt;/div&gt; in HTML/JSP" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="false" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
