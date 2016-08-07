@@ -5,6 +5,7 @@
       <mapping pattern="init-dev" type="PHP" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
