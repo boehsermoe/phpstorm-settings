@@ -7,6 +7,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="searchResults" type="PLAIN_TEXT" />
       <mapping pattern="gotest" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
