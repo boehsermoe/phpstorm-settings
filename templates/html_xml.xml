@@ -14,7 +14,14 @@
     </context>
   </template>
   <template name="div" value="&lt;div class=&quot;$END$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/div&gt;" description="Surround with &lt;div class=&quot;&quot;&gt;&lt;/div&gt; in HTML/JSP" toReformat="true" toShortenFQNames="false">
-    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="php foreach" value="&lt;?php foreach ($DATA$ as $END$) : ?&gt;&#10;$SELECTION$&#10;&lt;?php endforeach; ?&gt;" description="Surround with &lt;?php foreach () ?&gt; ... &lt;?php endforeach; ?&gt;" toReformat="true" toShortenFQNames="false">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="JSP" value="true" />
