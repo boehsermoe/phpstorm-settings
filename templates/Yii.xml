@@ -1,0 +1,7 @@
+<templateSet group="Yii">
+  <template name="Yii::t" value="Yii::t('app', '$END$')" description="Yii::t('app', '')" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
