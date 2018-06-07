@@ -23,6 +23,7 @@
       <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="_date.php" type="PLAIN_TEXT" />
       <mapping pattern="teammatch" type="PLAIN_TEXT" />
+      <mapping pattern=".htredirects" type="PLAIN_TEXT" />
       <mapping pattern="purge" type="PLAIN_TEXT" />
       <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
