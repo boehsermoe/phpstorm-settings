@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.phtml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +20,7 @@
     <mask>*.cass</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.phtml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
