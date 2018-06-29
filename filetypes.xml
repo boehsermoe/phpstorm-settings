@@ -18,6 +18,7 @@
       <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="js/initMasonry.js" type="PLAIN_TEXT" />
+      <mapping pattern="cronjobs_running" type="PLAIN_TEXT" />
       <mapping pattern="Root1 VeriSign Class 3 Public Primary CA - G2" type="PLAIN_TEXT" />
       <mapping pattern="magento" type="PLAIN_TEXT" />
       <mapping pattern="uploads" type="PLAIN_TEXT" />
