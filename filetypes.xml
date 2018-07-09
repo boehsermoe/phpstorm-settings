@@ -30,6 +30,7 @@
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="grunt-less" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
       <mapping pattern=".htrewrite" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />
