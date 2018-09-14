@@ -24,5 +24,6 @@
     <mask>*.php</mask>
     <mask>default.xml</mask>
     <mask>*.xml</mask>
+    <mask>.htaccess</mask>
   </component>
 </application>
