@@ -15,13 +15,12 @@
     <mask>*.cass</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.csv</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>default.xml</mask>
-    <mask>.htaccess</mask>
-    <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.xml</mask>
-    <mask>*.csv</mask>
+    <mask>.htaccess</mask>
   </component>
 </application>
