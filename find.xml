@@ -20,7 +20,7 @@
     <mask>default.xml</mask>
     <mask>.htaccess</mask>
     <mask>*.scss</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
