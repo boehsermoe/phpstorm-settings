@@ -5,7 +5,6 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.cass</mask>
     <mask>*.js</mask>
-    <mask>*.csv</mask>
     <mask>default.xml</mask>
     <mask>.htaccess</mask>
     <mask>*.scss</mask>
@@ -23,5 +21,6 @@
     <mask>*.phtml</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
