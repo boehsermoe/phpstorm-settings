@@ -11,6 +11,7 @@
       <mapping pattern="run" type="Bash" />
       <mapping pattern="run-docker" type="Bash" />
       <mapping pattern="run-upgrade" type="Bash" />
+      <mapping pattern="Dockerfile-composer" type="Dockerfile" />
       <mapping pattern="Dockerfile_dev" type="Dockerfile" />
       <mapping pattern="Dockerfile-uploads" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
