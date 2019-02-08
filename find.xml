@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.phtml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,5 +22,6 @@
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
