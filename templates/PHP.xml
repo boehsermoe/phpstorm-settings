@@ -17,7 +17,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="vd" value="var_dump($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="vd" value="var_dump($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
