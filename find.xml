@@ -19,7 +19,8 @@
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.phtml</mask>
+    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
