@@ -22,5 +22,6 @@
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
