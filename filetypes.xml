@@ -56,6 +56,7 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
+      <mapping pattern="run" type="Vue.js" />
       <mapping pattern="order_history.xml" type="XML" />
       <mapping ext="ctp" type="PHP files" />
       <mapping pattern="cache-clean" type="Bash" />
