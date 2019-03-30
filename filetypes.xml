@@ -18,6 +18,7 @@
       <mapping pattern="passwordHasChanged" type="HTML" />
       <mapping pattern="upload-to-maxcluster.sh" type="JSHint" />
       <mapping pattern=".unglue" type="JSON" />
+      <mapping ext="unglue" type="JSON" />
       <mapping pattern="_forms.less" type="Less" />
       <mapping ext="sqlite2" type="Native" />
       <mapping ext="sqlite" type="Native" />
@@ -47,11 +48,11 @@
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="grunt-less" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
       <mapping pattern=".htrewrite" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
       <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
