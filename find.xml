@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -20,9 +22,9 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
-    <mask>*.phtml</mask>
     <mask>system.xml</mask>
     <mask>widget.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
