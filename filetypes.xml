@@ -30,6 +30,7 @@
       <mapping ext="production" type="PHP" />
       <mapping ext="staging" type="PHP" />
       <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="vendor/luyadev/luya-core/bin/luya" type="PLAIN_TEXT" />
       <mapping pattern="cache-warmer-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-pthread" type="PLAIN_TEXT" />
@@ -43,14 +44,11 @@
       <mapping pattern="teammatch" type="PLAIN_TEXT" />
       <mapping pattern=".htredirects" type="PLAIN_TEXT" />
       <mapping pattern="purge" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Root1 VeriSign Class 3 Public Primary CA - G2" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="grunt-less" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".htrewrite" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
       <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
