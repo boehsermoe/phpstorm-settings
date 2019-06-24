@@ -2,7 +2,16 @@
   <component name="RemoteServers">
     <remote-server name="Docker ubuntu" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://172.16.6.51:4243" />
+        <option name="apiUrl" value="https://172.16.6.51:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Projekte" />
+              <option name="virtualMachinePath" value="/home/bennet/projects" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
     <remote-server name="Docker" type="docker">
