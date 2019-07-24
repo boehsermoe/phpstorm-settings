@@ -1,29 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="searchOverloadedMethods" value="true" />
-    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.cass</mask>
-    <mask>default.xml</mask>
-    <mask>.htaccess</mask>
-    <mask>*.less</mask>
-    <mask>system.xml</mask>
-    <mask>widget.xml</mask>
-    <mask>*.phtml</mask>
-    <mask>*.scss</mask>
-    <mask>*.js</mask>
-    <mask>*.json</mask>
-    <mask>*.php</mask>
-    <mask>*.xml</mask>
-    <mask>*.csv</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
