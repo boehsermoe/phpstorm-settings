@@ -16,7 +16,7 @@
     <mask>*Test.php</mask>
     <mask>*form.xml</mask>
     <mask>.htaccess</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
