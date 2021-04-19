@@ -54,6 +54,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
+      <mapping pattern="init" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cache-clean" type="Bash" />
