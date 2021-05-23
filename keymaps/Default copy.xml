@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="Console.TableResult.SelectRow" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
