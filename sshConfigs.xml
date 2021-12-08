@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="116.202.22.184" id="369ae77f-c05b-4313-a491-37cdab3bea6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="samowar-kaufen.de" id="369ae77f-c05b-4313-a491-37cdab3bea6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="lowgravityservice.com" id="5f2fc657-0705-4dc4-9968-947d6e31c945" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
