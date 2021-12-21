@@ -55,6 +55,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
       <mapping pattern="console" type="Shell Script" />
+      <mapping pattern="build" type="Shell Script" />
       <mapping pattern="init" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
