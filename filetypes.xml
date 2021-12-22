@@ -31,9 +31,7 @@
       <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="_date.php" type="PLAIN_TEXT" />
       <mapping pattern="teammatch" type="PLAIN_TEXT" />
-      <mapping pattern=".htredirects" type="PLAIN_TEXT" />
       <mapping pattern="purge" type="PLAIN_TEXT" />
-      <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="grunt-less" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
@@ -43,7 +41,9 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htredirects" type="PLAIN_TEXT" />
       <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
+      <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
       <mapping ext="fragezeichen" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="phpunit" type="PLAIN_TEXT" />
@@ -57,6 +57,7 @@
       <mapping pattern="console" type="Shell Script" />
       <mapping pattern="build" type="Shell Script" />
       <mapping pattern="init" type="Shell Script" />
+      <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cache-clean" type="Bash" />
