@@ -17,8 +17,8 @@
     <mask>.htaccess</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
