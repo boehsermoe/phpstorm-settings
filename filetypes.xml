@@ -1,75 +1,76 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
-      <mapping pattern="grunt-exec" type="Bash" />
-      <mapping pattern="run-upgrade" type="Bash" />
-      <mapping pattern="run-docker" type="Bash" />
-      <mapping pattern="compile" type="Bash" />
-      <mapping pattern="upgrade" type="Bash" />
-      <mapping pattern="grunt-watch" type="Bash" />
-      <mapping pattern="run" type="Bash" />
-      <mapping pattern="cache-clean" type="Bash" />
-      <mapping pattern="cron-heartbeat" type="Bash" />
-      <mapping pattern="magento-upgrade" type="Bash" />
-      <mapping pattern="Dockerfile-composer" type="Dockerfile" />
-      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
       <mapping pattern="Dockerfile-uploads" type="Dockerfile" />
+      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile-composer" type="Dockerfile" />
       <mapping pattern="passwordHasChanged" type="HTML" />
       <mapping pattern="upload-to-maxcluster.sh" type="JSHint" />
       <mapping pattern=".unglue" type="JSON" />
       <mapping ext="unglue" type="JSON" />
       <mapping pattern="_forms.less" type="Less" />
-      <mapping ext="sqlite" type="Native" />
       <mapping ext="eml" type="Native" />
+      <mapping ext="sqlite" type="Native" />
       <mapping ext="sqlite2" type="Native" />
-      <mapping pattern="AutoDoController" type="PHP" />
       <mapping pattern="WebUser" type="PHP" />
+      <mapping pattern="AutoDoController" type="PHP" />
+      <mapping ext="staging" type="PHP" />
+      <mapping ext="production" type="PHP" />
       <mapping ext="integration" type="PHP" />
       <mapping ext="dev" type="PHP" />
-      <mapping ext="production" type="PHP" />
-      <mapping ext="staging" type="PHP" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
-      <mapping pattern=".htredirects" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="purge" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern="magento" type="PLAIN_TEXT" />
-      <mapping pattern="FOO" type="PLAIN_TEXT" />
-      <mapping pattern="Root1 VeriSign Class 3 Public Primary CA - G2" type="PLAIN_TEXT" />
-      <mapping pattern="uploads" type="PLAIN_TEXT" />
-      <mapping pattern="teammatch" type="PLAIN_TEXT" />
+      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-pthread" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
-      <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
-      <mapping pattern="vendor/luyadev/luya-core/bin/luya" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Root1 VeriSign Class 3 Public Primary CA - G2" type="PLAIN_TEXT" />
       <mapping pattern="_date.php" type="PLAIN_TEXT" />
       <mapping pattern=".htrewrite" type="PLAIN_TEXT" />
-      <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="cronjobs_running" type="PLAIN_TEXT" />
-      <mapping pattern="grunt-less" type="PLAIN_TEXT" />
-      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern="js/initMasonry.js" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="cache-warmer-entrypoint" type="PLAIN_TEXT" />
-      <mapping ext="fragezeichen" type="PLAIN_TEXT" />
+      <mapping pattern="purge" type="PLAIN_TEXT" />
+      <mapping pattern="teammatch" type="PLAIN_TEXT" />
+      <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
+      <mapping pattern="js/initMasonry.js" type="PLAIN_TEXT" />
+      <mapping pattern="magento" type="PLAIN_TEXT" />
+      <mapping pattern=".htredirects" type="PLAIN_TEXT" />
+      <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
+      <mapping pattern="grunt-less" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-pthread" type="PLAIN_TEXT" />
+      <mapping pattern="vendor/luyadev/luya-core/bin/luya" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="phpunit" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="phpunit" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="fragezeichen" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
       <mapping pattern="init" type="Shell Script" />
       <mapping pattern="console" type="Shell Script" />
       <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="build" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="cache-clean" type="Bash" />
+      <mapping pattern="compile" type="Bash" />
+      <mapping pattern="cron-heartbeat" type="Bash" />
+      <mapping pattern="grunt-exec" type="Bash" />
+      <mapping pattern="grunt-watch" type="Bash" />
+      <mapping pattern="magento-upgrade" type="Bash" />
+      <mapping pattern="run" type="Bash" />
+      <mapping pattern="run-docker" type="Bash" />
+      <mapping pattern="run-upgrade" type="Bash" />
+      <mapping pattern="upgrade" type="Bash" />
     </extensionMap>
   </component>
 </application>
