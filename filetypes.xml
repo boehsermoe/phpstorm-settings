@@ -54,6 +54,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="fragezeichen" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
+      <mapping pattern="less-cleaner" type="Shell Script" />
       <mapping pattern="init" type="Shell Script" />
       <mapping pattern="console" type="Shell Script" />
       <mapping pattern="composer" type="Shell Script" />
