@@ -3,7 +3,7 @@
     <configs>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="samowar-kaufen.de" id="369ae77f-c05b-4313-a491-37cdab3bea6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lowgravityservice.com" id="5f2fc657-0705-4dc4-9968-947d6e31c945" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="OPEN_SSH" host="46.101.215.231" id="2cdac0c7-6bda-4b1b-9002-00c9b4e3a2cb" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="46.101.215.231" id="2cdac0c7-6bda-4b1b-9002-00c9b4e3a2cb" port="22" nameFormat="DESCRIPTIVE" username="www-data" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
