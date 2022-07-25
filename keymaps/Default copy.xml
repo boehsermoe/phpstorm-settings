@@ -12,11 +12,13 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
     <keyboard-shortcut first-keystroke="meta slash" />
-  </action>
-  <action id="Console.TableResult.SelectRow" />
-  <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Console.TableResult.SelectRow" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="Images.Editor.ActualSize" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
