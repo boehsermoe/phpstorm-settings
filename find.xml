@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Recently Changed Files" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,11 +15,11 @@
     <mask>*Test.php</mask>
     <mask>*form.xml</mask>
     <mask>.htaccess</mask>
-    <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
