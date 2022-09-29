@@ -21,5 +21,6 @@
     <mask>*.php</mask>
     <mask>*.csv</mask>
     <mask>*.js</mask>
+    <mask>main.js</mask>
   </component>
 </application>
