@@ -22,5 +22,6 @@
     <mask>main.js</mask>
     <mask>*.xml</mask>
     <mask>*.csv</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
