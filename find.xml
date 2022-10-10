@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +21,8 @@
     <mask>*.js</mask>
     <mask>main.js</mask>
     <mask>*.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.csv</mask>
     <mask>*.less</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
