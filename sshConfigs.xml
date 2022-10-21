@@ -4,6 +4,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="samowar-kaufen.de" id="369ae77f-c05b-4313-a491-37cdab3bea6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lowgravityservice.com" id="5f2fc657-0705-4dc4-9968-947d6e31c945" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="www-data" useOpenSSHConfig="true" />
       <sshConfig host="gmund.twofour.dev" id="29b7f10b-7911-4919-afcc-0e8912dbe0cd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="web-user" useOpenSSHConfig="true" />
+      <sshConfig host="gmund.com" id="a2789650-7347-46f6-b777-d5c064f6873f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="web-user@backend.gmund.com:22" nameFormat="CUSTOM" username="web-user" useOpenSSHConfig="true">
+        <option name="customName" value="web-user@backend.gmund.com:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
