@@ -26,6 +26,13 @@
       <option name="HTML" value="true" />
       <option name="JSP" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP Interface Member" value="false" />
+      <option name="PHP Statement" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="PHP Trait Member" value="false" />
     </context>
   </template>
 </templateSet>
