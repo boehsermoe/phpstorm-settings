@@ -16,7 +16,6 @@
     <mask>.htaccess</mask>
     <mask>*.json</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>main.js</mask>
     <mask>*.phtml</mask>
     <mask>*.twig</mask>
@@ -24,5 +23,6 @@
     <mask>*.csv</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
