@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,11 +19,11 @@
     <mask>*.css</mask>
     <mask>main.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.csv</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
