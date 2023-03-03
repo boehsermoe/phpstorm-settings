@@ -7,6 +7,9 @@
       <sshConfig host="gmund.com" id="a2789650-7347-46f6-b777-d5c064f6873f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="web-user@backend.gmund.com:22" nameFormat="CUSTOM" username="web-user" useOpenSSHConfig="true">
         <option name="customName" value="web-user@backend.gmund.com:22" />
       </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="164.90.168.196" id="09b1e43d-f31b-49c1-b470-5cb05bbca5d7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="www-data@164.90.168.196:22" nameFormat="CUSTOM" username="www-data" useOpenSSHConfig="true">
+        <option name="customName" value="www-data@164.90.168.196:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
