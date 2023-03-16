@@ -12,17 +12,17 @@
       <mapping pattern=".unglue" type="JSON" />
       <mapping ext="unglue" type="JSON" />
       <mapping pattern="_forms.less" type="Less" />
-      <mapping ext="eml" type="Native" />
       <mapping ext="sqlite" type="Native" />
+      <mapping ext="eml" type="Native" />
       <mapping ext="sqlite2" type="Native" />
       <mapping pattern="WebUser" type="PHP" />
       <mapping pattern="AutoDoController" type="PHP" />
-      <mapping ext="staging" type="PHP" />
-      <mapping ext="production" type="PHP" />
-      <mapping ext="integration" type="PHP" />
       <mapping ext="dev" type="PHP" />
-      <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PHP" />
+      <mapping ext="staging" type="PHP" />
+      <mapping ext="integration" type="PHP" />
       <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
@@ -46,15 +46,15 @@
       <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-pthread" type="PLAIN_TEXT" />
       <mapping pattern="vendor/luyadev/luya-core/bin/luya" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="cron" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="phpunit" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="phpunit" type="PLAIN_TEXT" />
       <mapping ext="fragezeichen" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="cron" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
       <mapping pattern="less-cleaner" type="Shell Script" />
       <mapping pattern="init" type="Shell Script" />
@@ -62,6 +62,7 @@
       <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="build" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cache-clean" type="Bash" />
