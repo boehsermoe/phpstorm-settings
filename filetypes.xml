@@ -21,8 +21,8 @@
       <mapping ext="production" type="PHP" />
       <mapping ext="staging" type="PHP" />
       <mapping ext="integration" type="PHP" />
-      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
+      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
