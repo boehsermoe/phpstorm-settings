@@ -22,7 +22,7 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.less</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
