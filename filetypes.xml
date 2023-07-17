@@ -35,6 +35,7 @@
       <mapping pattern="cronjobs_running" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="cache-warmer-entrypoint" type="PLAIN_TEXT" />
+      <mapping pattern=".php-ini" type="PLAIN_TEXT" />
       <mapping pattern="purge" type="PLAIN_TEXT" />
       <mapping pattern="teammatch" type="PLAIN_TEXT" />
       <mapping pattern="template/product/image_with_borders" type="PLAIN_TEXT" />
