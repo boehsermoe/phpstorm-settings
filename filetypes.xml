@@ -48,6 +48,7 @@
       <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-pthread" type="PLAIN_TEXT" />
       <mapping pattern="vendor/luyadev/luya-core/bin/luya" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="phpunit" type="PLAIN_TEXT" />
       <mapping ext="fragezeichen" type="PLAIN_TEXT" />
