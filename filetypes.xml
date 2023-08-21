@@ -42,6 +42,7 @@
       <mapping pattern="js/initMasonry.js" type="PLAIN_TEXT" />
       <mapping pattern="magento" type="PLAIN_TEXT" />
       <mapping pattern=".htredirects" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="jpegoptim" type="PLAIN_TEXT" />
       <mapping pattern="grunt-less" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
