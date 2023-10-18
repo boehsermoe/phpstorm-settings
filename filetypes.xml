@@ -23,8 +23,8 @@
       <mapping ext="production" type="PHP" />
       <mapping ext="staging" type="PHP" />
       <mapping ext="integration" type="PHP" />
-      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
+      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
@@ -67,6 +67,8 @@
       <mapping pattern="composer" type="Shell Script" />
       <mapping pattern="build" type="Shell Script" />
       <mapping pattern="order_history.xml" type="XML" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="cache-clean" type="Bash" />
