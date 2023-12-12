@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="default_head_blocks" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
@@ -23,8 +23,8 @@
       <mapping ext="production" type="PHP" />
       <mapping ext="staging" type="PHP" />
       <mapping ext="integration" type="PHP" />
-      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="shipping_payment.tpl" type="PLAIN_TEXT" />
+      <mapping pattern=".HornyS3.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="FOO" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-ext-install" type="PLAIN_TEXT" />
