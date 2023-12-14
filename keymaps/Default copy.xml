@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="Images.Editor.ActualSize" />
+  <action id="MagicentoAction" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
