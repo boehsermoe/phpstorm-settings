@@ -25,7 +25,7 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>system.xml</mask>
     <mask>widget.xml</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
