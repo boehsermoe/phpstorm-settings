@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="widget.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,5 +27,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>system.xml</mask>
+    <mask>widget.xml</mask>
   </component>
 </application>
