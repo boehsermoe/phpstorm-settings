@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:magento:module:Magento_Config:etc/system_file.xsd" location="$APPLICATION_HOME_DIR$/lib/app.jar" />
+  </component>
+</application>
