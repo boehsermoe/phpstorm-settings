@@ -22,4 +22,14 @@
       <version-cache last-modified="0" />
     </local-interpreter>
   </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/Users/bk/projects/7thSense/maxxpromo/magento2.project.maxxpromo.shop/.ddev/.ddev-docker-compose-full.yaml]:web//usr/bin/node" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/projects/7thSense/maxxpromo/magento2.project.maxxpromo.shop/.ddev/.ddev-docker-compose-full.yaml" />
+      </dockerComposeConfigurationPaths>
+      <envs>
+        <env name="COMPOSE_PROJECT_NAME" value="ddev-maxxpromo" />
+      </envs>
+    </interpreter>
+  </component>
 </application>
