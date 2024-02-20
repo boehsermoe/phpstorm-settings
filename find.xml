@@ -22,10 +22,10 @@
     <mask>*.json</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>widget.xml</mask>
     <mask>system.xml</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
