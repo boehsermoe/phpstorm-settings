@@ -15,7 +15,6 @@
     <mask>.htaccess</mask>
     <mask>*.css</mask>
     <mask>main.js</mask>
-    <mask>*.csv</mask>
     <mask>*form.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
@@ -27,5 +26,6 @@
     <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
