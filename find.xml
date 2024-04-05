@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +19,6 @@
     <mask>*.css</mask>
     <mask>main.js</mask>
     <mask>*form.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.scss</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
@@ -32,5 +30,6 @@
     <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>*.phtaml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
