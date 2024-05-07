@@ -22,11 +22,11 @@
     <mask>widget.xml</mask>
     <mask>system.xml</mask>
     <mask>*.less</mask>
-    <mask>*.xml</mask>
     <mask>*.csv</mask>
     <mask>*.json</mask>
     <mask>*.phtaml</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
