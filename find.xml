@@ -24,9 +24,9 @@
     <mask>*.csv</mask>
     <mask>*.json</mask>
     <mask>*.phtaml</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
