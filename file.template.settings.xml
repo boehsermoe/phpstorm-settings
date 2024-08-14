@@ -1,0 +1,17 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="CakePHP View File.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_composer.json" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_controller.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_di.xml" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_events.xml" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_layout.xml" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_module.xml" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_observer.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_plugin.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_registration.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="magicento2_routes.xml" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+  </component>
+</application>
