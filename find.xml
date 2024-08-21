@@ -27,7 +27,7 @@
     <mask>index.js</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.less</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
