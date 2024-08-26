@@ -57,6 +57,7 @@
       <mapping ext="fragezeichen" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
+      <mapping ext="log-2024-08-23-1724408402" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
