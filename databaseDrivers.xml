@@ -20,14 +20,14 @@
     <driver id="oracle">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
-    </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
     </driver>
   </component>
 </application>
