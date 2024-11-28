@@ -28,7 +28,7 @@
     <mask>*.json</mask>
     <mask>system.xml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.csv</mask>
+    <mask>*.php</mask>
   </component>
 </application>
