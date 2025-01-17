@@ -12,7 +12,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
-    <entry key="i18n.locale" value="" />
     <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
