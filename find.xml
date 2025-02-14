@@ -28,7 +28,7 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
