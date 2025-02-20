@@ -18,7 +18,6 @@
     <mask>widget.xml</mask>
     <mask>*.phtaml</mask>
     <mask>*.scss</mask>
-    <mask>*.twig</mask>
     <mask>index.js</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
@@ -30,5 +29,6 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
