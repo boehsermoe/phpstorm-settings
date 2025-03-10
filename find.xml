@@ -29,7 +29,7 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>di.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
