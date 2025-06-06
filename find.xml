@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,11 +26,11 @@
     <mask>*.scss</mask>
     <mask>di.xml</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.csv</mask>
+    <mask>*.js</mask>
   </component>
 </application>
