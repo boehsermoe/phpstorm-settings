@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -26,10 +27,10 @@
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.csv</mask>
+    <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
