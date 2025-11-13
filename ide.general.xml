@@ -13,6 +13,9 @@
     <entry key="dumb.aware.run.configurations" value="true" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
+    <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
+    <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
+    <entry key="idea.islands.feedback2.enabled" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
