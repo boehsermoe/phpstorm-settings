@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -22,7 +23,6 @@
     <mask>*.css</mask>
     <mask>*.twig</mask>
     <mask>di.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
@@ -32,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
