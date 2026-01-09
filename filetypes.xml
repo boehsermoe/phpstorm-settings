@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="default_head_blocks" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
+      <mapping pattern="build-administration" type="AUTO_DETECTED" />
       <mapping pattern="magerun" type="AUTO_DETECTED" />
       <mapping pattern="workspace.sh" type="AUTO_DETECTED" />
       <mapping pattern="luya" type="AUTO_DETECTED" />
