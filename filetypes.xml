@@ -66,6 +66,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="elastic" type="SCSS" />
       <mapping pattern="less-cleaner" type="Shell Script" />
