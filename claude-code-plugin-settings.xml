@@ -1,0 +1,5 @@
+<application>
+  <component name="ClaudeCodePluginSettings">
+    <option name="skipClaudeNotFoundNotification" value="true" />
+  </component>
+</application>
