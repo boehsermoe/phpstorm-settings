@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
+    <option name="cascadeModelExplicitlySet" value="false" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="completedCascadeOnboardingItems">
       <list>
@@ -10,7 +11,22 @@
     <option name="hasShownNewCompletionApiNotification" value="true" />
     <option name="hasShownPreReleaseNotification" value="true" />
     <option name="installationId" value="2ae73097-1d17-40fa-a7d0-3bb17398549b" />
-    <option name="lastChangelogVersionShown" value="2.12.9" />
+    <option name="lastChangelogVersionShown" value="2.12.15" />
+    <option name="lastSelectedCascadeModelUids">
+      <list>
+        <option value="MODEL_SWE_1_5_SLOW" />
+      </list>
+    </option>
     <option name="loggedFirstInstall" value="true" />
+    <option name="migrationMarkers">
+      <set>
+        <option value="lastSelectedCascadeModelUids" />
+        <option value="completionMode" />
+        <option value="cascadePlannerMode" />
+        <option value="lastSelectedSmartFriendModelUid" />
+        <option value="cascadeModelExplicitlySet" />
+        <option value="pinnedCascadeModelUids" />
+      </set>
+    </option>
   </component>
 </application>
