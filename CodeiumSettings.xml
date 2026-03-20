@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="enableCascadeToolWindow" value="false" />
     <option name="nativeCompletionMode" value="autocomplete" />
   </component>
 </application>
