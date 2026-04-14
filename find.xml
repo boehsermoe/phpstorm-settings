@@ -33,5 +33,6 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.pot</mask>
   </component>
 </application>
