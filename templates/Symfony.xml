@@ -1,5 +1,5 @@
 <templateSet group="Symfony">
-  <template name="discriminatorcolumn" value="#[ORM\DiscriminatorColumn(name: '$NAME$', type: '$TYPE$')]" description="Symfony #[ORM\DiscriminatorColumn(...)]" toReformat="true" toShortenFQNames="true">
+  <template name="discriminatorcolumn" value="#[ORM\DiscriminatorColumn(name: '$NAME$', type: '$TYPE$')]" description="Symfony #[ORM\DiscriminatorColumn(...)]" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
